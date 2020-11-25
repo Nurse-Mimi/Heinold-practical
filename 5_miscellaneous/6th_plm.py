@@ -7,7 +7,6 @@ for i in range(10000):
         count=count+1
         print('Number of multiples of 12:', count)
         print(' ')
-    print('Number of multiples of 12:', count)
 
 print('!')
 print('Number of multiples of 12:', count)
